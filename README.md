@@ -1,4 +1,4 @@
-### Hi! Welcome my ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <br><br> I’m currently learning 👩‍💻
+### Hi! Welcome my Github👩‍💻
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
