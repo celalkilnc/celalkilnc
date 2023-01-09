@@ -7,6 +7,11 @@
 
 
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=enesgurel&&style=flat-square" align="center" />
+</div>  
+  
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
