@@ -6,13 +6,13 @@
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
-
+<!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=enesgurel&&style=flat-square" align="center" />
 </div>  
   
 
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
