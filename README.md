@@ -7,6 +7,7 @@
 ## I use this techs <br>
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,rabbitmq&theme=light)](https://skillicons.dev)<br><br>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celalkilnc&layout=compact&theme=midnight-purple)](https://github.com/celalkilnc/github-readme-stats)
 
 <!--
 <div align="center">
@@ -14,8 +15,16 @@
 </div>  
   ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+<div>
+  
 
 
+[![Celal's GitHub stats](https://github-readme-stats.vercel.app/api?username=celalkilnc&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
+  
+</div>
+
+
+celalkilnc
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
