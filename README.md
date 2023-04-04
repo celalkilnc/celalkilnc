@@ -2,7 +2,7 @@
 
 ## I’m currently learning <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet&theme=light)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,javascript,react&theme=light)](https://skillicons.dev)<br><br>
 
 ## I use this techs <br>
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,rabbitmq,postgres&theme=light)](https://skillicons.dev)<br><br>
