@@ -1,10 +1,10 @@
 # Hi! Welcome my *Github*  [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
 
-## I’m currently learning <br>
+
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,javascript,react&theme=light)](https://skillicons.dev)<br><br>
 
-## I use this techs <br>
+
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,rabbitmq,postgres&theme=light)](https://skillicons.dev)<br><br>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celalkilnc&layout=compact&theme=midnight-purple)](https://github.com/celalkilnc/github-readme-stats)
