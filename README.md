@@ -1,4 +1,4 @@
-# Hi! Welcome my *Github*  [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
+# Hi! Welcome my *Github* 
 
 
 
