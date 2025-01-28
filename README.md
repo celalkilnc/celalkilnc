@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am actively working as a jr. backend developer. I am also interested in frontend technologies</p>
+<p align="left">I am actively working as a web developer. I am also interested in AI technologies</p>
 
 ###
 
