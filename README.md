@@ -1,14 +1,16 @@
 <h2 align="left">Hi 👋! Welcome my github.</h2>
 
-###
 
-<p align="left">I am actively working as a web developer. I am also interested in AI technologies</p>
 
 ###
 
 <div align="center">
   <img height="200" src="https://th.bing.com/th/id/R.5985a08efc799b0e3e6fb2318c7d9145?rik=vMIlVXsfhx8BBw&riu=http%3a%2f%2frhinoos.xyz%2fwp-content%2fuploads%2f2016%2f11%2fpost2.gif&ehk=V7to3NYlBezEhlT3yoP%2f4P6A5OApOCnMSHs2gfizW%2f8%3d&risl=&pid=ImgRaw&r=0"  />
 </div>
+
+###
+
+<p align="center">I am actively working as a web developer. I am also interested in AI technologies</p>
 
 ###
 
